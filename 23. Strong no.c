@@ -43,5 +43,5 @@ int main()
         printf("%d is NOT STRONG NUMBER", originalNum);
     }
 
-    return 0;
+   
 }
