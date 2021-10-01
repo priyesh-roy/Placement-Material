@@ -6,7 +6,7 @@ int main()
 int number, temp, remainder, result = 0, n = 0 ;
 
 printf("Enter an integer: ");
-scanf("&d", &number);
+scanf("%d", &number);
 
 temp = number;
 
