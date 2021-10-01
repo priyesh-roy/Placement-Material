@@ -6,7 +6,7 @@ int main()
 
     /* Input a number from user */
     printf("Enter any number to check Strong number: ");
-    scanf("&d", &num);
+    scanf("%d", &num);
 
     /* Copy the value of num to a temporary variable */
     originalNum = num;
